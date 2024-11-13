@@ -1,0 +1,4 @@
+langgraph>=0.0.15
+langchain>=0.1.0
+langchain-core>=0.1.0
+typing-extensions>=4.8.0 

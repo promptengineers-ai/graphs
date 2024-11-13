@@ -1,0 +1,9 @@
+grandalf
+langgraph 
+langsmith 
+langchain_anthropic
+langchain_openai
+langchain_experimental
+langchain_core
+matplotlib
+pandas
